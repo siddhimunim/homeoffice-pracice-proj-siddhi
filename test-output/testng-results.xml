@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[click on start button[[ChromeDriver: chrome on WINDOWS (2d11a8732d72552bb565954453e08023)] -> xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]]]]>
+    </line>
+    <line>
+      <![CDATA[Select Nationality [[ChromeDriver: chrome on WINDOWS (2d11a8732d72552bb565954453e08023)] -> xpath: //select[@id='response']]]]>
+    </line>
+    <line>
+      <![CDATA[click on Continue[[ChromeDriver: chrome on WINDOWS (2d11a8732d72552bb565954453e08023)] -> xpath: //button[contains(text(),'Continue')]]]]>
+    </line>
+    <line>
+      <![CDATA[Reason for visit :Work, academic visit or business[[ChromeDriver: chrome on WINDOWS (2d11a8732d72552bb565954453e08023)] -> xpath: //button[contains(text(),'Continue')]]]]>
+    </line>
+    <line>
+      <![CDATA[click on continue[[ChromeDriver: chrome on WINDOWS (2d11a8732d72552bb565954453e08023)] -> xpath: //button[contains(text(),'Continue')]]]]>
+    </line>
+    <line>
+      <![CDATA[click on continue[[ChromeDriver: chrome on WINDOWS (2d11a8732d72552bb565954453e08023)] -> xpath: //button[contains(text(),'Continue')]]]]>
+    </line>
+    <line>
+      <![CDATA[Select job Type :Health and care professional[[ChromeDriver: chrome on WINDOWS (2d11a8732d72552bb565954453e08023)] -> xpath: //button[contains(text(),'Continue')]]]]>
+    </line>
+    <line>
+      <![CDATA[click on continue[[ChromeDriver: chrome on WINDOWS (2d11a8732d72552bb565954453e08023)] -> xpath: //button[contains(text(),'Continue')]]]]>
+    </line>
+    <line>
+      <![CDATA[Click to see screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\hvtha\home-office-visa-check-week15-practice/test-output/html/aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonthsFri_Dec_16_13_35_20_GMT_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\hvtha\home-office-visa-check-week15-practice/test-output/html/aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonthsFri_Dec_16_13_35_20_GMT_2022.jpg><img src=C:\Users\hvtha\home-office-visa-check-week15-practice/test-output/html/aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonthsFri_Dec_16_13_35_20_GMT_2022.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[click on start button[[ChromeDriver: chrome on WINDOWS (e45009345249b0b0a3b93f50d21f8bed)] -> xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]]]]>
+    </line>
+    <line>
+      <![CDATA[Select Nationality [[ChromeDriver: chrome on WINDOWS (e45009345249b0b0a3b93f50d21f8bed)] -> xpath: //select[@id='response']]]]>
+    </line>
+    <line>
+      <![CDATA[click on Continue[[ChromeDriver: chrome on WINDOWS (e45009345249b0b0a3b93f50d21f8bed)] -> xpath: //button[contains(text(),'Continue')]]]]>
+    </line>
+    <line>
+      <![CDATA[Reason for visit :Join partner or family for a long stay[[ChromeDriver: chrome on WINDOWS (e45009345249b0b0a3b93f50d21f8bed)] -> xpath: //button[contains(text(),'Continue')]]]]>
+    </line>
+    <line>
+      <![CDATA[click on continue[[ChromeDriver: chrome on WINDOWS (e45009345249b0b0a3b93f50d21f8bed)] -> xpath: //button[contains(text(),'Continue')]]]]>
+    </line>
+    <line>
+      <![CDATA[click on continue[[ChromeDriver: chrome on WINDOWS (e45009345249b0b0a3b93f50d21f8bed)] -> xpath: //button[contains(text(),'Continue')]]]]>
+    </line>
+    <line>
+      <![CDATA[Click to see screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\hvtha\home-office-visa-check-week15-practice/test-output/html/aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20CardFri_Dec_16_13_35_25_GMT_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\hvtha\home-office-visa-check-week15-practice/test-output/html/aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20CardFri_Dec_16_13_35_25_GMT_2022.jpg><img src=C:\Users\hvtha\home-office-visa-check-week15-practice/test-output/html/aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20CardFri_Dec_16_13_35_25_GMT_2022.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[click on start button[[ChromeDriver: chrome on WINDOWS (0ab335e53c3548750034f1e4f3174f70)] -> xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]]]]>
+    </line>
+    <line>
+      <![CDATA[Select Nationality [[ChromeDriver: chrome on WINDOWS (0ab335e53c3548750034f1e4f3174f70)] -> xpath: //select[@id='response']]]]>
+    </line>
+    <line>
+      <![CDATA[click on Continue[[ChromeDriver: chrome on WINDOWS (0ab335e53c3548750034f1e4f3174f70)] -> xpath: //button[contains(text(),'Continue')]]]]>
+    </line>
+    <line>
+      <![CDATA[Reason for visit :Tourism or visiting family and friends[[ChromeDriver: chrome on WINDOWS (0ab335e53c3548750034f1e4f3174f70)] -> xpath: //button[contains(text(),'Continue')]]]]>
+    </line>
+    <line>
+      <![CDATA[click on continue[[ChromeDriver: chrome on WINDOWS (0ab335e53c3548750034f1e4f3174f70)] -> xpath: //button[contains(text(),'Continue')]]]]>
+    </line>
+    <line>
+      <![CDATA[Click to see screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\hvtha\home-office-visa-check-week15-practice/test-output/html/anAustralianCominToUKForTourismFri_Dec_16_13_35_28_GMT_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\hvtha\home-office-visa-check-week15-practice/test-output/html/anAustralianCominToUKForTourismFri_Dec_16_13_35_28_GMT_2022.jpg><img src=C:\Users\hvtha\home-office-visa-check-week15-practice/test-output/html/anAustralianCominToUKForTourismFri_Dec_16_13_35_28_GMT_2022.jpg height=200 width=200></img></a>]]>
+    </line>
+  </reporter-output>
+  <suite name="sanity suite" duration-ms="20981" started-at="2022-12-16T13:35:08 GMT" finished-at="2022-12-16T13:35:29 GMT">
+    <groups>
+      <group name="regression">
+        <method signature="VisaConfirmationTest.aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:gov.uk.check.visa.testsuites.VisaConfirmationTest@67b467e9]" name="aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths" class="gov.uk.check.visa.testsuites.VisaConfirmationTest"/>
+        <method signature="VisaConfirmationTest.aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:gov.uk.check.visa.testsuites.VisaConfirmationTest@67b467e9]" name="aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card" class="gov.uk.check.visa.testsuites.VisaConfirmationTest"/>
+        <method signature="VisaConfirmationTest.anAustralianCominToUKForTourism(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:gov.uk.check.visa.testsuites.VisaConfirmationTest@67b467e9]" name="anAustralianCominToUKForTourism" class="gov.uk.check.visa.testsuites.VisaConfirmationTest"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="VisaConfirmationTest.aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:gov.uk.check.visa.testsuites.VisaConfirmationTest@67b467e9]" name="aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths" class="gov.uk.check.visa.testsuites.VisaConfirmationTest"/>
+      </group> <!-- smoke -->
+      <group name="sanity">
+        <method signature="VisaConfirmationTest.anAustralianCominToUKForTourism(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:gov.uk.check.visa.testsuites.VisaConfirmationTest@67b467e9]" name="anAustralianCominToUKForTourism" class="gov.uk.check.visa.testsuites.VisaConfirmationTest"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test name="regression" duration-ms="20981" started-at="2022-12-16T13:35:08 GMT" finished-at="2022-12-16T13:35:29 GMT">
+      <class name="gov.uk.check.visa.testsuites.VisaConfirmationTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:gov.uk.check.visa.testsuites.VisaConfirmationTest@67b467e9]" name="setUp" is-config="true" duration-ms="3602" started-at="2022-12-16T13:35:08 GMT" finished-at="2022-12-16T13:35:12 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inInt()[pri:0, instance:gov.uk.check.visa.testsuites.VisaConfirmationTest@67b467e9]" name="inInt" is-config="true" duration-ms="26" started-at="2022-12-16T13:35:12 GMT" finished-at="2022-12-16T13:35:12 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inInt -->
+        <test-method status="PASS" signature="aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:gov.uk.check.visa.testsuites.VisaConfirmationTest@67b467e9]" name="aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths" duration-ms="8065" started-at="2022-12-16T13:35:12 GMT" data-provider="dataNO2" finished-at="2022-12-16T13:35:20 GMT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chile]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Work, academic visit or business]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[longer than 6 months]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Health and care professional]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[You need a visa to work in health and care]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[click on start button[[ChromeDriver: chrome on WINDOWS (2d11a8732d72552bb565954453e08023)] -> xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]]]]>
+            </line>
+            <line>
+              <![CDATA[Select Nationality [[ChromeDriver: chrome on WINDOWS (2d11a8732d72552bb565954453e08023)] -> xpath: //select[@id='response']]]]>
+            </line>
+            <line>
+              <![CDATA[click on Continue[[ChromeDriver: chrome on WINDOWS (2d11a8732d72552bb565954453e08023)] -> xpath: //button[contains(text(),'Continue')]]]]>
+            </line>
+            <line>
+              <![CDATA[Reason for visit :Work, academic visit or business[[ChromeDriver: chrome on WINDOWS (2d11a8732d72552bb565954453e08023)] -> xpath: //button[contains(text(),'Continue')]]]]>
+            </line>
+            <line>
+              <![CDATA[click on continue[[ChromeDriver: chrome on WINDOWS (2d11a8732d72552bb565954453e08023)] -> xpath: //button[contains(text(),'Continue')]]]]>
+            </line>
+            <line>
+              <![CDATA[click on continue[[ChromeDriver: chrome on WINDOWS (2d11a8732d72552bb565954453e08023)] -> xpath: //button[contains(text(),'Continue')]]]]>
+            </line>
+            <line>
+              <![CDATA[Select job Type :Health and care professional[[ChromeDriver: chrome on WINDOWS (2d11a8732d72552bb565954453e08023)] -> xpath: //button[contains(text(),'Continue')]]]]>
+            </line>
+            <line>
+              <![CDATA[click on continue[[ChromeDriver: chrome on WINDOWS (2d11a8732d72552bb565954453e08023)] -> xpath: //button[contains(text(),'Continue')]]]]>
+            </line>
+            <line>
+              <![CDATA[Click to see screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\hvtha\home-office-visa-check-week15-practice/test-output/html/aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonthsFri_Dec_16_13_35_20_GMT_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\hvtha\home-office-visa-check-week15-practice/test-output/html/aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonthsFri_Dec_16_13_35_20_GMT_2022.jpg><img src=C:\Users\hvtha\home-office-visa-check-week15-practice/test-output/html/aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonthsFri_Dec_16_13_35_20_GMT_2022.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:gov.uk.check.visa.testsuites.VisaConfirmationTest@67b467e9]" name="tearDown" is-config="true" duration-ms="715" started-at="2022-12-16T13:35:20 GMT" finished-at="2022-12-16T13:35:21 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:gov.uk.check.visa.testsuites.VisaConfirmationTest@67b467e9]" name="setUp" is-config="true" duration-ms="1911" started-at="2022-12-16T13:35:21 GMT" finished-at="2022-12-16T13:35:23 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inInt()[pri:0, instance:gov.uk.check.visa.testsuites.VisaConfirmationTest@67b467e9]" name="inInt" is-config="true" duration-ms="1" started-at="2022-12-16T13:35:23 GMT" finished-at="2022-12-16T13:35:23 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inInt -->
+        <test-method status="PASS" signature="aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:gov.uk.check.visa.testsuites.VisaConfirmationTest@67b467e9]" name="aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card" duration-ms="1508" started-at="2022-12-16T13:35:23 GMT" data-provider="dataNO3" finished-at="2022-12-16T13:35:24 GMT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Join partner or family for a long stay]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[You’ll need a visa to join your family or partner in the UK]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[click on start button[[ChromeDriver: chrome on WINDOWS (e45009345249b0b0a3b93f50d21f8bed)] -> xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]]]]>
+            </line>
+            <line>
+              <![CDATA[Select Nationality [[ChromeDriver: chrome on WINDOWS (e45009345249b0b0a3b93f50d21f8bed)] -> xpath: //select[@id='response']]]]>
+            </line>
+            <line>
+              <![CDATA[click on Continue[[ChromeDriver: chrome on WINDOWS (e45009345249b0b0a3b93f50d21f8bed)] -> xpath: //button[contains(text(),'Continue')]]]]>
+            </line>
+            <line>
+              <![CDATA[Reason for visit :Join partner or family for a long stay[[ChromeDriver: chrome on WINDOWS (e45009345249b0b0a3b93f50d21f8bed)] -> xpath: //button[contains(text(),'Continue')]]]]>
+            </line>
+            <line>
+              <![CDATA[click on continue[[ChromeDriver: chrome on WINDOWS (e45009345249b0b0a3b93f50d21f8bed)] -> xpath: //button[contains(text(),'Continue')]]]]>
+            </line>
+            <line>
+              <![CDATA[click on continue[[ChromeDriver: chrome on WINDOWS (e45009345249b0b0a3b93f50d21f8bed)] -> xpath: //button[contains(text(),'Continue')]]]]>
+            </line>
+            <line>
+              <![CDATA[Click to see screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\hvtha\home-office-visa-check-week15-practice/test-output/html/aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20CardFri_Dec_16_13_35_25_GMT_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\hvtha\home-office-visa-check-week15-practice/test-output/html/aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20CardFri_Dec_16_13_35_25_GMT_2022.jpg><img src=C:\Users\hvtha\home-office-visa-check-week15-practice/test-output/html/aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20CardFri_Dec_16_13_35_25_GMT_2022.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:gov.uk.check.visa.testsuites.VisaConfirmationTest@67b467e9]" name="tearDown" is-config="true" duration-ms="670" started-at="2022-12-16T13:35:25 GMT" finished-at="2022-12-16T13:35:25 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:gov.uk.check.visa.testsuites.VisaConfirmationTest@67b467e9]" name="setUp" is-config="true" duration-ms="1767" started-at="2022-12-16T13:35:25 GMT" finished-at="2022-12-16T13:35:27 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inInt()[pri:0, instance:gov.uk.check.visa.testsuites.VisaConfirmationTest@67b467e9]" name="inInt" is-config="true" duration-ms="1" started-at="2022-12-16T13:35:27 GMT" finished-at="2022-12-16T13:35:27 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inInt -->
+        <test-method status="PASS" signature="anAustralianCominToUKForTourism(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:gov.uk.check.visa.testsuites.VisaConfirmationTest@67b467e9]" name="anAustralianCominToUKForTourism" duration-ms="853" started-at="2022-12-16T13:35:27 GMT" data-provider="dataNO1" finished-at="2022-12-16T13:35:28 GMT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Australia]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tourism or visiting family and friends]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[You will not need a visa to come to the UK]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[click on start button[[ChromeDriver: chrome on WINDOWS (0ab335e53c3548750034f1e4f3174f70)] -> xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]]]]>
+            </line>
+            <line>
+              <![CDATA[Select Nationality [[ChromeDriver: chrome on WINDOWS (0ab335e53c3548750034f1e4f3174f70)] -> xpath: //select[@id='response']]]]>
+            </line>
+            <line>
+              <![CDATA[click on Continue[[ChromeDriver: chrome on WINDOWS (0ab335e53c3548750034f1e4f3174f70)] -> xpath: //button[contains(text(),'Continue')]]]]>
+            </line>
+            <line>
+              <![CDATA[Reason for visit :Tourism or visiting family and friends[[ChromeDriver: chrome on WINDOWS (0ab335e53c3548750034f1e4f3174f70)] -> xpath: //button[contains(text(),'Continue')]]]]>
+            </line>
+            <line>
+              <![CDATA[click on continue[[ChromeDriver: chrome on WINDOWS (0ab335e53c3548750034f1e4f3174f70)] -> xpath: //button[contains(text(),'Continue')]]]]>
+            </line>
+            <line>
+              <![CDATA[Click to see screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\hvtha\home-office-visa-check-week15-practice/test-output/html/anAustralianCominToUKForTourismFri_Dec_16_13_35_28_GMT_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\hvtha\home-office-visa-check-week15-practice/test-output/html/anAustralianCominToUKForTourismFri_Dec_16_13_35_28_GMT_2022.jpg><img src=C:\Users\hvtha\home-office-visa-check-week15-practice/test-output/html/anAustralianCominToUKForTourismFri_Dec_16_13_35_28_GMT_2022.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- anAustralianCominToUKForTourism -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:gov.uk.check.visa.testsuites.VisaConfirmationTest@67b467e9]" name="tearDown" is-config="true" duration-ms="639" started-at="2022-12-16T13:35:28 GMT" finished-at="2022-12-16T13:35:29 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- gov.uk.check.visa.testsuites.VisaConfirmationTest -->
+    </test> <!-- regression -->
+  </suite> <!-- sanity suite -->
+</testng-results>

@@ -1,0 +1,146 @@
+<html>
+<head>
+<title>TestNG:  regression</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>regression</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>3/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Fri Dec 16 13:35:08 GMT 2022</td>
+</tr>
+<tr><td>Total time:</td><td>20 seconds (20981 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td>regression </td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='gov.uk.check.visa.testsuites.VisaConfirmationTest.aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths()'><b>aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths</b><br>Test class: gov.uk.check.visa.testsuites.VisaConfirmationTest<br>Parameters: Chile, Work, academic visit or business, longer than 6 months, Health and care professional, You need a visa to work in health and care<br/>
+<a href="#Output-1544147328" onClick='toggleBox("Output-1544147328", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1544147328" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1544147328">
+click on start button[[ChromeDriver: chrome on WINDOWS (2d11a8732d72552bb565954453e08023)] -> xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]]<br/>
+Select Nationality [[ChromeDriver: chrome on WINDOWS (2d11a8732d72552bb565954453e08023)] -> xpath: //select[@id='response']]<br/>
+click on Continue[[ChromeDriver: chrome on WINDOWS (2d11a8732d72552bb565954453e08023)] -> xpath: //button[contains(text(),'Continue')]]<br/>
+Reason for visit :Work, academic visit or business[[ChromeDriver: chrome on WINDOWS (2d11a8732d72552bb565954453e08023)] -> xpath: //button[contains(text(),'Continue')]]<br/>
+click on continue[[ChromeDriver: chrome on WINDOWS (2d11a8732d72552bb565954453e08023)] -> xpath: //button[contains(text(),'Continue')]]<br/>
+click on continue[[ChromeDriver: chrome on WINDOWS (2d11a8732d72552bb565954453e08023)] -> xpath: //button[contains(text(),'Continue')]]<br/>
+Select job Type :Health and care professional[[ChromeDriver: chrome on WINDOWS (2d11a8732d72552bb565954453e08023)] -> xpath: //button[contains(text(),'Continue')]]<br/>
+click on continue[[ChromeDriver: chrome on WINDOWS (2d11a8732d72552bb565954453e08023)] -> xpath: //button[contains(text(),'Continue')]]<br/>
+Click to see screenshot<br/>
+<a target = "_blank" href=C:\Users\hvtha\home-office-visa-check-week15-practice/test-output/html/aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonthsFri_Dec_16_13_35_20_GMT_2022.jpg>Screenshot</a><br/>
+<br><br/>
+<br><br/>
+<a target = "_blank" href=C:\Users\hvtha\home-office-visa-check-week15-practice/test-output/html/aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonthsFri_Dec_16_13_35_20_GMT_2022.jpg><img src=C:\Users\hvtha\home-office-visa-check-week15-practice/test-output/html/aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonthsFri_Dec_16_13_35_20_GMT_2022.jpg height=200 width=200></img></a><br/>
+</div>
+</td>
+<td></td>
+<td>8</td>
+<td>gov.uk.check.visa.testsuites.VisaConfirmationTest@67b467e9</td></tr>
+<tr>
+<td title='gov.uk.check.visa.testsuites.VisaConfirmationTest.aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card()'><b>aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card</b><br>Test class: gov.uk.check.visa.testsuites.VisaConfirmationTest<br>Parameters: India, Join partner or family for a long stay, Yes, You’ll need a visa to join your family or partner in the UK<br/>
+<a href="#Output-199150625" onClick='toggleBox("Output-199150625", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-199150625" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-199150625">
+click on start button[[ChromeDriver: chrome on WINDOWS (e45009345249b0b0a3b93f50d21f8bed)] -> xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]]<br/>
+Select Nationality [[ChromeDriver: chrome on WINDOWS (e45009345249b0b0a3b93f50d21f8bed)] -> xpath: //select[@id='response']]<br/>
+click on Continue[[ChromeDriver: chrome on WINDOWS (e45009345249b0b0a3b93f50d21f8bed)] -> xpath: //button[contains(text(),'Continue')]]<br/>
+Reason for visit :Join partner or family for a long stay[[ChromeDriver: chrome on WINDOWS (e45009345249b0b0a3b93f50d21f8bed)] -> xpath: //button[contains(text(),'Continue')]]<br/>
+click on continue[[ChromeDriver: chrome on WINDOWS (e45009345249b0b0a3b93f50d21f8bed)] -> xpath: //button[contains(text(),'Continue')]]<br/>
+click on continue[[ChromeDriver: chrome on WINDOWS (e45009345249b0b0a3b93f50d21f8bed)] -> xpath: //button[contains(text(),'Continue')]]<br/>
+Click to see screenshot<br/>
+<a target = "_blank" href=C:\Users\hvtha\home-office-visa-check-week15-practice/test-output/html/aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20CardFri_Dec_16_13_35_25_GMT_2022.jpg>Screenshot</a><br/>
+<br><br/>
+<br><br/>
+<a target = "_blank" href=C:\Users\hvtha\home-office-visa-check-week15-practice/test-output/html/aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20CardFri_Dec_16_13_35_25_GMT_2022.jpg><img src=C:\Users\hvtha\home-office-visa-check-week15-practice/test-output/html/aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20CardFri_Dec_16_13_35_25_GMT_2022.jpg height=200 width=200></img></a><br/>
+</div>
+</td>
+<td></td>
+<td>1</td>
+<td>gov.uk.check.visa.testsuites.VisaConfirmationTest@67b467e9</td></tr>
+<tr>
+<td title='gov.uk.check.visa.testsuites.VisaConfirmationTest.anAustralianCominToUKForTourism()'><b>anAustralianCominToUKForTourism</b><br>Test class: gov.uk.check.visa.testsuites.VisaConfirmationTest<br>Parameters: Australia, Tourism or visiting family and friends, You will not need a visa to come to the UK<br/>
+<a href="#Output-1934729582" onClick='toggleBox("Output-1934729582", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1934729582" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1934729582">
+click on start button[[ChromeDriver: chrome on WINDOWS (0ab335e53c3548750034f1e4f3174f70)] -> xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]]<br/>
+Select Nationality [[ChromeDriver: chrome on WINDOWS (0ab335e53c3548750034f1e4f3174f70)] -> xpath: //select[@id='response']]<br/>
+click on Continue[[ChromeDriver: chrome on WINDOWS (0ab335e53c3548750034f1e4f3174f70)] -> xpath: //button[contains(text(),'Continue')]]<br/>
+Reason for visit :Tourism or visiting family and friends[[ChromeDriver: chrome on WINDOWS (0ab335e53c3548750034f1e4f3174f70)] -> xpath: //button[contains(text(),'Continue')]]<br/>
+click on continue[[ChromeDriver: chrome on WINDOWS (0ab335e53c3548750034f1e4f3174f70)] -> xpath: //button[contains(text(),'Continue')]]<br/>
+Click to see screenshot<br/>
+<a target = "_blank" href=C:\Users\hvtha\home-office-visa-check-week15-practice/test-output/html/anAustralianCominToUKForTourismFri_Dec_16_13_35_28_GMT_2022.jpg>Screenshot</a><br/>
+<br><br/>
+<br><br/>
+<a target = "_blank" href=C:\Users\hvtha\home-office-visa-check-week15-practice/test-output/html/anAustralianCominToUKForTourismFri_Dec_16_13_35_28_GMT_2022.jpg><img src=C:\Users\hvtha\home-office-visa-check-week15-practice/test-output/html/anAustralianCominToUKForTourismFri_Dec_16_13_35_28_GMT_2022.jpg height=200 width=200></img></a><br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>gov.uk.check.visa.testsuites.VisaConfirmationTest@67b467e9</td></tr>
+</table><p>
+</body>
+</html>
